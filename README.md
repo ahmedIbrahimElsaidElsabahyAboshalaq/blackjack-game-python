@@ -42,4 +42,4 @@ You Lose! Your sum is: 22
 
 ## Author
 
-Ahmed Ibrahim
+Ahmed El sabahy
